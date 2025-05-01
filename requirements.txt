@@ -1,0 +1,12 @@
+groq==0.18.0
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.40
+langchain-groq==0.2.4
+langchain-text-splitters==0.3.6
+langgraph==0.3.2
+langgraph-checkpoint==2.0.16
+langgraph-prebuilt==0.1.1
+langgraph-sdk==0.1.53
+langsmith==0.3.11
+wikipedia==1.4.0
